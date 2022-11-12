@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "okinawa"
+  site-url: "https://chen-001.github.io/okinawa"
+  description: "detailed documentation for pure_ocean_breeze and so on."
+  repo-branch: master
+  repo-url: "https://github.com/chen-001/okinawa"
